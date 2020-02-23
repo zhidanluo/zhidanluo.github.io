@@ -4,24 +4,27 @@
   dates: 2018 – Present
   qualification: Computer Engineering, MEng
   quote: >
-    Machine Learning, Data Mining, Database System, Design and Analysis of Algorithms...
+    Machine Learning, Data Mining, Database System, Digital Image Processing, 
+    Design and Analysis of Algorithms, Robot Control System...
   description: | # this will include new lines to allow paragraphs
-    Current GPA: 3.940/4.000;&nbsp;&nbsp;&nbsp;&nbsp;Degree expected in May 2020
+    Current GPA: 3.940/4.000;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    Degree expected in May 2020
 
 - layout: left
   name: University of Glasgow
   dates: 2014 - 2018
   qualification: Electronic and Electrical Engineering, BEng, with Honors of the Second-First Class
   quote: >
-    James Watt School of Engineering
+    Computer Architecture, MATLAB and Numerical Analysis, Digital Signal Processing...
   description: | # this will include new lines to allow paragraphs
-    Overall GPA: 88.54/100;&nbsp;&nbsp;&nbsp;&nbsp;Rank: 13/240;
+    Overall GPA: 88.54/100;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    Rank: 13/240;
 
 - layout: left
   name: University of Electronic Science and Technology of China
   dates: 2014 - 2018
   qualification: Electronic Information Engineering, BEng
-  quote: 
-    Glasgow College
+  quote: >
   description: | # this will include new lines to allow paragraphs
-    Overall GPA: 88.54/100;&nbsp;&nbsp;&nbsp;&nbsp;Rank: 13/240;
+    Overall GPA: 88.54/100;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    Rank: 13/240;
