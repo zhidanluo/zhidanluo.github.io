@@ -4,9 +4,9 @@
   dates: 2018 – Present
   qualification: Computer Engineering, MEng
   quote: >
-    School of Engineering and Applied Science
-  description: | # this will include new lines to allow paragraphs
     Degree expected in May 2020
+  description: | # this will include new lines to allow paragraphs
+    Current GPA: 3.940/4.000;
 
 - layout: left
   name: University of Glasgow
@@ -15,13 +15,13 @@
   quote: >
     James Watt School of Engineering
   description: | # this will include new lines to allow paragraphs
-    Overall GPA: 88.54/100; Rank: 13/240;
+    Overall GPA: 88.54/100; <mark>Rank</mark>: 13/240;
 
 - layout: left
   name: University of Electronic Science and Technology of China
   dates: 2014 - 2018
   qualification: Electronic Information Engineering, BEng
-  quote: >
+  quote: 
     Glasgow College
   description: | # this will include new lines to allow paragraphs
     Overall GPA: 88.54/100; Rank: 13/240;
