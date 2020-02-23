@@ -13,15 +13,15 @@
   dates: 2014 - 2018
   qualification: Electronic and Electrical Engineering, BEng, with Honors of the Second-First Class
   quote: >
-    James Watt School of Engineering
+    <p align="right">James Watt School of Engineering</p>
   description: | # this will include new lines to allow paragraphs
-    Overall GPA: 88.54/100; <mark>Rank</mark>: 13/240;
+    Overall GPA: 88.54/100;    Rank: 13/240;
 
 - layout: left
   name: University of Electronic Science and Technology of China
   dates: 2014 - 2018
   qualification: Electronic Information Engineering, BEng
   quote: 
-    Glasgow College
+    <p align="right">Glasgow College</p>
   description: | # this will include new lines to allow paragraphs
-    Overall GPA: 88.54/100; Rank: 13/240;
+    Overall GPA: 88.54/100;    Rank: 13/240;
