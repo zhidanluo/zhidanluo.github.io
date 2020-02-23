@@ -4,15 +4,24 @@
   dates: 2018 – Present
   qualification: Computer Engineering, MEng
   quote: >
-    Short institution or course description (optional)
+    School of Engineering and Applied Science
   description: | # this will include new lines to allow paragraphs
-    Description of qualification
+    Degree expected in May 2020
 
 - layout: left
-  name: Institution name
-  dates: Date Range (eg. 2016 - 2019)
-  qualification: Qualifications (eg. BA Performing Arts)
+  name: University of Glasgow
+  dates: 2014 - 2018
+  qualification: Electronic and Electrical Engineering, BEng, with Honors of the Second-First Class
   quote: >
-    Short institution or course description (optional)
+    James Watt School of Engineering
   description: | # this will include new lines to allow paragraphs
-    Description of qualification
+    Overall GPA: 88.54/100; Rank: 13/240;
+
+- layout: left
+  name: University of Electronic Science and Technology of China
+  dates: 2014 - 2018
+  qualification: Electronic Information Engineering, BEng
+  quote: >
+    Glasgow College
+  description: | # this will include new lines to allow paragraphs
+    Overall GPA: 88.54/100; Rank: 13/240;
