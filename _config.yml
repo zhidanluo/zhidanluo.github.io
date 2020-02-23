@@ -7,7 +7,7 @@ name: Zhidan Luo
 title: University of Virginia Computer Engineering Master Student
 email: zhidanluo007@gmail.com
 phone: 1-434-227-0903
-website: zhidanluo.github.io
+website: https://github.com/zhidanluo
 
 darkmode: false
 
@@ -43,7 +43,7 @@ additional_links:
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: images/profile.JPG
+about_profile_image: images/profile0.JPG
 about_content: | # this will include new lines to allow paragraphs
   Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
 
