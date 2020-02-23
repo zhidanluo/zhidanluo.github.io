@@ -7,7 +7,7 @@ name: Zhidan Luo
 title: University of Virginia Computer Engineering Master Student
 email: zhidanluo007@gmail.com
 phone: 1-434-227-0903
-website: https://github.com/zhidanluo
+# website: https://github.com/zhidanluo
 
 darkmode: true
 
@@ -45,13 +45,11 @@ linkedin_username: zhidan-luo
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile0.JPG
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
-
-  You can even add paragraphs by using empty lines like this and add anything else markdown supports such as
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
-    - Images
+  Hi, my name is Zhidan Luo. I'm a master student in the Computer Engineering department at the University of Virginia (UVA).<br/>
+  
+  I have completed my undergraduate in Electronic and Electrical Engineering both from University of Glasgow (UoG) 
+  and University of Electronic Science and Technology of China (UESTC). My undergraduate thesis supervisor was 
+  [Dr. Wasim Ahmad](https://www.gla.ac.uk/schools/engineering/staff/wasimahmad/#).<br/>
 
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
