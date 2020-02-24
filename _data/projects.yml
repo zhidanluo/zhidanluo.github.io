@@ -9,10 +9,10 @@
     Solve arbitrary tiling puzzles based on backtracking algorithm
 
 - layout: left
-  name: Project name
-  link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
-  quote: >
-    Short overview of the project (optional)
+  name: [Tiling Puzzle Solver](https://github.com/zhidanluo/tiling-puzzle-solver)
+#   link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+  github: zhidanluo/tiling-puzzle-solver
+#   quote: >
+#     Short overview of the project (optional)
   description: | # this will include new lines to allow paragraphs
-    Description about the work on/with the project
+    Solve arbitrary tiling puzzles based on backtracking algorithm
