@@ -9,7 +9,7 @@
     Solve arbitrary tiling puzzles based on backtracking algorithm
 
 - layout: left
-  name: [Tiling Puzzle Solver](https://github.com/zhidanluo/tiling-puzzle-solver)
+  name: Tiling Puzzle Solver
   link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
   github: zhidanluo/tiling-puzzle-solver
   quote: >
