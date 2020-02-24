@@ -13,6 +13,6 @@
   link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
   github: zhidanluo/tiling-puzzle-solver
   quote: >
-    
+    1
   description: | # this will include new lines to allow paragraphs
     Solve arbitrary tiling puzzles based on backtracking algorithm
