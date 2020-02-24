@@ -1,14 +1,14 @@
 # Project template
 - layout: top-middle
   name: Tiling Puzzle Solver
-  link: zhidanluo/tiling-puzzle-solver
+  link: https://github.com/zhidanluo/tiling-puzzle-solver
   github: zhidanluo/tiling-puzzle-solver
   quote: >
     Solve arbitrary tiling puzzles based on backtracking algorithm
   description: | # this will include new lines to allow paragraphs
     Solve arbitrary tiling puzzles based on backtracking algorithm
 
-- layout: top-middle
+- layout: left
   name: Project name
   link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
   github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
