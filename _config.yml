@@ -46,7 +46,7 @@ linkedin_username: zhidan-luo
 about_profile_image: images/profile0.JPG
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name is Zhidan Luo. I'm a master student in the Computer Engineering department at the University of Virginia
-  ([UVA]((https://www.virginia.edu/aboutuva))).<br/>
+  ([UVA](https://www.virginia.edu/aboutuva)).<br/>
   
   I have completed my undergraduate in Electronic and Electrical Engineering both from University of Glasgow ([UoG](https://www.gla.ac.uk)) 
   and University of Electronic Science and Technology of China ([UESTC](https://en.uestc.edu.cn/About_UESTC1.htm)). 
@@ -57,7 +57,7 @@ about_content: | # this will include new lines to allow paragraphs
   especially we having fun in **Disney World** and **Universal Studios**.<br/>
   
   If interested, you can find my full 
-  [**CV**](cv/Resume_0.11.pdf) here.
+  [CV](cv/Resume_0.11.pdf) here.
 
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
