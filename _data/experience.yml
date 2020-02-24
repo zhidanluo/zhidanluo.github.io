@@ -1,10 +1,11 @@
 # Experience template
 - layout: left
-  company: Company name
-  link: Link to company (optional)
-  job_title: Job title
-  dates: Date Range (eg. November 2016 - present)
+  company: China Mobile Limited, Chongqing Branch
+  link: https://www.chinamobileltd.com/en/about/overview.php
+  job_title: Data Analyst
+  dates: Jan. – Feb. 2017
   quote: >
-   Short description of the company (optional)
+   
   description: | # this will include new lines to allow paragraphs
-    Description of role
+    - Collected and analyzed wireless network performance data and drafted network quality report for department review
+    - Supported business operation evaluation
