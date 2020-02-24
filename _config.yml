@@ -67,7 +67,7 @@ about_content: | # this will include new lines to allow paragraphs
 # more_title: #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
   <p align="center">
-    <img width="35%" height="35%" src="images/dream.jpg">
+    <img width="100%" height="100%" src="images/dream.jpg">
   </p>
 
 # Footer
