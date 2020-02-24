@@ -67,7 +67,7 @@ about_content: | # this will include new lines to allow paragraphs
 # more_title: #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
   <p align="center">
-    <img width="30%" height="30%" src="https://github.com/zhidanluo/zhidanluo.github.io/blob/master/images/dream.jpg"/>
+    <img width="10%" height="10%" src="https://github.com/zhidanluo/zhidanluo.github.io/blob/master/images/dream.jpg"/>
   </p>
 
 # Footer
