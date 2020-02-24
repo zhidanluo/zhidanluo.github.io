@@ -4,15 +4,41 @@
   link: https://github.com/zhidanluo/tiling-puzzle-solver
   github: zhidanluo/tiling-puzzle-solver
   quote: >
-    Solve arbitrary tiling puzzles based on backtracking algorithm
+    Solved arbitrary tiling puzzles based on backtracking algorithm
   description: | # this will include new lines to allow paragraphs
     
 
-- layout: left
-  name: Tiling Puzzle Solver
-#   link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-  github: zhidanluo/tiling-puzzle-solver
+- layout: top-middle
+  name: CNN and MLP Based Classification on Articles of Clothing
+  link: https://github.com/zhidanluo/clothing-classification
+  github: zhidanluo/clothing-classification
   quote: >
-    
+    Automatical classification of clothing images on modified Fashion-MNIST dataset
   description: | # this will include new lines to allow paragraphs
-    Solve arbitrary tiling puzzles based on backtracking algorithm
+
+
+- layout: top-middle
+  name: Recognition of Human Activities
+  link: https://github.com/zhidanluo/human-activity-recognition
+  github: zhidanluo/human-activity-recognition
+  quote: >
+    Developed a supervised method to classify observations into human activities categories
+  description: | # this will include new lines to allow paragraphs
+    
+- layout: top-middle
+  name: Generation of Non-Repetitive Sound Effects for Games
+  link: https://github.com/zhidanluo/sound-effects-for-games
+  github: zhidanluo/sound-effects-for-games
+  quote: >
+    Developed algorithms that will generate non-repetitive sound effects using parameters from user self-defined
+  description: | # this will include new lines to allow paragraphs
+
+
+- layout: top-middle
+  name: Artificial Neural Network Based Self Driving Vehicle
+  link: https://github.com/FlashTortoise
+  github: FlashTortoise
+  quote: >
+    A Self-navigation Automobile Team Project
+  description: | # this will include new lines to allow paragraphs
+
